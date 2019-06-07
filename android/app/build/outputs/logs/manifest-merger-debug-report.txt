@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /home/sean/Desktop/testNativeApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-navigation] /home/sean/Desktop/testNativeApp/node_modules/react-native-navigation/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [com.facebook.react:react-native:0.49.5] /home/sean/.gradle/caches/transforms-2/files-2.1/14f625dd5c2d245ade8bff652f70d37c/AndroidManifest.xml:2:1-15:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/sean/.gradle/caches/transforms-2/files-2.1/303714e3db493f9334df565d72cf8329/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/b135bade83a59e22f0e7b5aa1fcd0360/AndroidManifest.xml:17:1-22:12
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/sean/.gradle/caches/transforms-2/files-2.1/a020d33b30bf1dd88f4a86f48aced6ae/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/3cab5e3f4b3f80fbc4b4a0484166c90c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/00c8929a51fcac51fc4fc5d722f5f4ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/f813ca67ddf5110f8db7ce0a942d71a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/8155f310f17510a90bdbde8dde00dc15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/074cb4e1036d18e66c9d4134abdfaccb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/84b15d2dc17263b2234790abf57f1e34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/27c86e204ecd39b7295060126e6d2e23/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/6e64c77abb0bcfbe0c8e90704d95fe29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/f07a2a505b99a3cf8fe04ffdb4ea3d43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/6bb2acf0a17ce2882a1ef0d91d8ff292/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/c7189fa8143c33ae945384cafd682d23/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/sean/.gradle/caches/transforms-2/files-2.1/23c8da0e4d5c41cc0c21f07a66ccc82f/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/5eed0346056ea83c7ba8e3317a7fbf91/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/90d4a887c42e6b723c87ebaeba242a11/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/1aa238683f3e9c7ac6ca772903ee6d12/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /home/sean/.gradle/caches/transforms-2/files-2.1/b5a1ae05325ada8ddc686e1e6fbb18eb/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/d2ab069fcdbcd5f4e06dc0191d348e3e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/29fe2add7a3566e9f05e2b50ccab41ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/135c56bdae85e04f8af3162f564e81ea/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/0eba3e9c5eb514ef29db276ae2331dd8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/02e2c9bd0efd91b76a4e0901c45c9bd7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/e9e454986cc05e853c372b21ef6e3f3b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/sean/.gradle/caches/transforms-2/files-2.1/ae2255344b52b96ac9ba89a5e18295f9/AndroidManifest.xml:2:1-14:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/88d0ea25223bf2ed92665e4027d073dc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/0ed0be8c931c77961b353b68934f03fa/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.49.5] /home/sean/.gradle/caches/transforms-2/files-2.1/14f625dd5c2d245ade8bff652f70d37c/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.49.5] /home/sean/.gradle/caches/transforms-2/files-2.1/14f625dd5c2d245ade8bff652f70d37c/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [:react-native-navigation] /home/sean/Desktop/testNativeApp/node_modules/react-native-navigation/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-navigation] /home/sean/Desktop/testNativeApp/node_modules/react-native-navigation/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [com.facebook.react:react-native:0.49.5] /home/sean/.gradle/caches/transforms-2/files-2.1/14f625dd5c2d245ade8bff652f70d37c/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.49.5] /home/sean/.gradle/caches/transforms-2/files-2.1/14f625dd5c2d245ade8bff652f70d37c/AndroidManifest.xml:13:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/sean/.gradle/caches/transforms-2/files-2.1/303714e3db493f9334df565d72cf8329/AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/sean/.gradle/caches/transforms-2/files-2.1/303714e3db493f9334df565d72cf8329/AndroidManifest.xml:11:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/sean/.gradle/caches/transforms-2/files-2.1/a020d33b30bf1dd88f4a86f48aced6ae/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/sean/.gradle/caches/transforms-2/files-2.1/a020d33b30bf1dd88f4a86f48aced6ae/AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/1aa238683f3e9c7ac6ca772903ee6d12/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/1aa238683f3e9c7ac6ca772903ee6d12/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/sean/.gradle/caches/transforms-2/files-2.1/b5a1ae05325ada8ddc686e1e6fbb18eb/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/sean/.gradle/caches/transforms-2/files-2.1/b5a1ae05325ada8ddc686e1e6fbb18eb/AndroidManifest.xml:2:3-17
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/sean/.gradle/caches/transforms-2/files-2.1/ae2255344b52b96ac9ba89a5e18295f9/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/sean/.gradle/caches/transforms-2/files-2.1/ae2255344b52b96ac9ba89a5e18295f9/AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.rn_course.MainActivity
+ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:23:7-84
+MERGED from [:react-native-navigation] /home/sean/Desktop/testNativeApp/node_modules/react-native-navigation/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-17:40
+MERGED from [:react-native-navigation] /home/sean/Desktop/testNativeApp/node_modules/react-native-navigation/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [:react-native-navigation] /home/sean/Desktop/testNativeApp/node_modules/react-native-navigation/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /home/sean/Desktop/testNativeApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/sean/Desktop/testNativeApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /home/sean/Desktop/testNativeApp/node_modules/react-native-navigation/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /home/sean/Desktop/testNativeApp/node_modules/react-native-navigation/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.49.5] /home/sean/.gradle/caches/transforms-2/files-2.1/14f625dd5c2d245ade8bff652f70d37c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.49.5] /home/sean/.gradle/caches/transforms-2/files-2.1/14f625dd5c2d245ade8bff652f70d37c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/sean/.gradle/caches/transforms-2/files-2.1/303714e3db493f9334df565d72cf8329/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/sean/.gradle/caches/transforms-2/files-2.1/303714e3db493f9334df565d72cf8329/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/b135bade83a59e22f0e7b5aa1fcd0360/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/b135bade83a59e22f0e7b5aa1fcd0360/AndroidManifest.xml:20:5-44
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/sean/.gradle/caches/transforms-2/files-2.1/a020d33b30bf1dd88f4a86f48aced6ae/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/sean/.gradle/caches/transforms-2/files-2.1/a020d33b30bf1dd88f4a86f48aced6ae/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/3cab5e3f4b3f80fbc4b4a0484166c90c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/3cab5e3f4b3f80fbc4b4a0484166c90c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/00c8929a51fcac51fc4fc5d722f5f4ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/00c8929a51fcac51fc4fc5d722f5f4ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/f813ca67ddf5110f8db7ce0a942d71a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/f813ca67ddf5110f8db7ce0a942d71a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/8155f310f17510a90bdbde8dde00dc15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/8155f310f17510a90bdbde8dde00dc15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/074cb4e1036d18e66c9d4134abdfaccb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/074cb4e1036d18e66c9d4134abdfaccb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/84b15d2dc17263b2234790abf57f1e34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/84b15d2dc17263b2234790abf57f1e34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/27c86e204ecd39b7295060126e6d2e23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/27c86e204ecd39b7295060126e6d2e23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/6e64c77abb0bcfbe0c8e90704d95fe29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/6e64c77abb0bcfbe0c8e90704d95fe29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/f07a2a505b99a3cf8fe04ffdb4ea3d43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/f07a2a505b99a3cf8fe04ffdb4ea3d43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/6bb2acf0a17ce2882a1ef0d91d8ff292/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/6bb2acf0a17ce2882a1ef0d91d8ff292/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/c7189fa8143c33ae945384cafd682d23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/sean/.gradle/caches/transforms-2/files-2.1/c7189fa8143c33ae945384cafd682d23/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/sean/.gradle/caches/transforms-2/files-2.1/23c8da0e4d5c41cc0c21f07a66ccc82f/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/sean/.gradle/caches/transforms-2/files-2.1/23c8da0e4d5c41cc0c21f07a66ccc82f/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/5eed0346056ea83c7ba8e3317a7fbf91/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/5eed0346056ea83c7ba8e3317a7fbf91/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/90d4a887c42e6b723c87ebaeba242a11/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/90d4a887c42e6b723c87ebaeba242a11/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/1aa238683f3e9c7ac6ca772903ee6d12/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/1aa238683f3e9c7ac6ca772903ee6d12/AndroidManifest.xml:2:3-70
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/d2ab069fcdbcd5f4e06dc0191d348e3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/d2ab069fcdbcd5f4e06dc0191d348e3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/29fe2add7a3566e9f05e2b50ccab41ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/29fe2add7a3566e9f05e2b50ccab41ba/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/135c56bdae85e04f8af3162f564e81ea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/135c56bdae85e04f8af3162f564e81ea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/0eba3e9c5eb514ef29db276ae2331dd8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/0eba3e9c5eb514ef29db276ae2331dd8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/02e2c9bd0efd91b76a4e0901c45c9bd7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/02e2c9bd0efd91b76a4e0901c45c9bd7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/e9e454986cc05e853c372b21ef6e3f3b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/sean/.gradle/caches/transforms-2/files-2.1/e9e454986cc05e853c372b21ef6e3f3b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/sean/.gradle/caches/transforms-2/files-2.1/ae2255344b52b96ac9ba89a5e18295f9/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/sean/.gradle/caches/transforms-2/files-2.1/ae2255344b52b96ac9ba89a5e18295f9/AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/88d0ea25223bf2ed92665e4027d073dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/88d0ea25223bf2ed92665e4027d073dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/0ed0be8c931c77961b353b68934f03fa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/sean/.gradle/caches/transforms-2/files-2.1/0ed0be8c931c77961b353b68934f03fa/AndroidManifest.xml:20:5-44
+INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [:react-native-navigation] /home/sean/Desktop/testNativeApp/node_modules/react-native-navigation/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [:react-native-navigation] /home/sean/Desktop/testNativeApp/node_modules/react-native-navigation/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [:react-native-navigation] /home/sean/Desktop/testNativeApp/node_modules/react-native-navigation/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-84
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/sean/Desktop/testNativeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
